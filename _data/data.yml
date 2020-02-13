@@ -43,6 +43,21 @@ experiences:
       company: Grubhub, Chicago
       details: |
         Enterprise applications
+    - role: Software Engineer
+      time: Jan 2017 - July 2019
+      company: Vail Systems, Chicago
+      details: |
+        Voice applications
+    - role: Infrastructure Engineer
+      time: July 2016 - Nov 2016
+      company: SAVO Group, Chicago
+      details: |
+        Infrastructure
+    - role: Software Engineer
+      time: Jan 2015 - July 2016
+      company: Vail Systems, Chicago
+      details: |
+        Voice applications
 
 skills:
     title: Skills &amp; Proficiency
@@ -50,6 +65,8 @@ skills:
     toolset:
       - name: Ruby
       - name: Ruby on Rails
-
+      - name: Java
+      - name: JavaScript
+      - name: MySQL
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
