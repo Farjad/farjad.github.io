@@ -39,7 +39,12 @@ education:
       time: 2010 - 2014
 experiences:
     - role: Software Engineer
-      time: July 2019 - Present
+      time: Aug 2020 - Present
+      company: Braintree / Paypal, Chicago
+      details: |
+        Enterprise applications
+     - role: Software Engineer
+      time: July 2019 - Aug 2020
       company: Grubhub, Chicago
       details: |
         Enterprise applications
