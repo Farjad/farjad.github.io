@@ -38,8 +38,13 @@ education:
       university: University of Illinois at Urbana-Champaign
       time: 2010 - 2014
 experiences:
+    - role: Senior Software Engineer
+      time: July 2021 - Present
+      company: Atlassian, Dallas
+      details: |
+        Bitbucket
     - role: Software Engineer
-      time: Aug 2020 - Present
+      time: Aug 2020 - July 2021
       company: Braintree / Paypal, Chicago
       details: |
         Enterprise applications
